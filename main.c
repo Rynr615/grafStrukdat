@@ -7,8 +7,8 @@
 Kode dibuat oleh:
 1.  - Nama  :   Ryan Yanuar Pradana
     - NIM   :   2405188
-2.  - Nama  :   Siti Maulidha
-    - NIM   :
+2.  - Nama  :   Siti Maulida Rahmah
+    - NIM   :   2409092
 
 Pada Sabtu, 31 Mei 2025
 
