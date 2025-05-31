@@ -1,4 +1,4 @@
-Diajukan untuk memenuhi tugas Mata Kuliah Struktur Data
+Diajukan untuk memenuhi tugas Mata Kuliah Struktur Data <br>
 Dosen Pengampu : Erna Piantari, S.Kom., M.T.
 
 Kode dibuat oleh:
